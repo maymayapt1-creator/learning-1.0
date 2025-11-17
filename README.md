@@ -1,5 +1,10 @@
 # Learning Repository
 
-This repository contains my programming exercises, reading notes, and project development in computer science and machine learning.
+This repository documents my ongoing learning in computer science, programming, mathematics, and machine learning.
 
-I upload my progress regularly to document my learning process.
+### 📂 Contents
+- **daily-notes/** – daily study logs & reflections  
+- **code/** – programming exercises and small experiments  
+- **projects/** – (future) larger work and research-style projects  
+
+I update this repository regularly to track my progress and improve my technical skills.
